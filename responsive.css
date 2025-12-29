@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.homepage-card-container {
+    background-color: #ffffff;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    padding: 12px;
+}
+
+.homepage-card-heading {
+    font-family: "Bree Serif";
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: #f19116;
+    margin-top: 12px;
+}
+
+.homepage-card-paragraph {
+    font-family: "Bree Serif";
+    font-size: 13px;
+    color: #7b8794;
+    text-align: center;
+}
+
+.homepage-card-button {
+    background-color: #f19116;
+    border-width: 0px;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 10px;
+    padding: 5px;
+    margin: 8px;
+    height: 30px;
+    width: 80px;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-style: solid;
+}
+
+.avenuepage-bg-container {
+    background-color: #222222;
+    background-size: cover;
+    height: 100vh;
+}
+
+.avenuepage-card-container {
+    background-color: #ffffff;
+    height: 140px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 10px;
+}
+
+.avenue-card-heading {
+    font-family: "Beer Serif";
+    font-size: 20px;
+    color: #0f0e46;
+    padding: 8px;
+    margin: 6px;
+    font-weight: bold;
+}
+
+.avenue-card-paragraph {
+    font-family: "Beer Serif";
+    font-size: 14px;
+    color: #6c6b70;
+    padding: 8px;
+    margin: 4px;
+}
+
+.avenue-card-image {
+    height: 140px;
+    width: 140px;
+}
+
+.avenue-card-main-heading {
+    font-family: "Bree Serif";
+    font-size: 20px;
+    color: #f19116;
+    padding: 12px;
+    margin-top: 22px;
+}
+
+.avenue-card-button {
+    font-family: "Beer Serif";
+    font-size: 10px;
+    color: #ffffff;
+    background-color: #f19116;
+    padding: 5px;
+    margin: 10px;
+    height: 30px;
+    width: 80px;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-style: solid;
+    border-width: 0px;
+}
+
+.flatpagefirst-bg-contanier {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d1-img.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.flatpagesecond-bg-contanier {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d2-img.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.flatpagethird-bg-contanier {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d3-img.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.flatpage-card-container {
+    background-color: #222222;
+    height: 280px;
+    padding: 15px;
+}
+
+.flatpage-main-heading {
+    font-family: "Beer Serif";
+    font-size: 22px;
+    color: #f19116;
+    padding: 8px;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.flatpage-location {
+    font-family: "Beer Serif";
+    font-size: 11px;
+    color: #ffffff;
+    margin: 10px;
+}
+
+.flatpage-image {
+    height: 25px;
+    width: 20px;
+    margin: 6px;
+}
+
+.flatpage-heading {
+    font-family: "Beer Serif";
+    font-size: 22px;
+    color: #f19116;
+    padding: 8px;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.flatpage-description {
+    font-family: "Beer Serif";
+    font-size: 13px;
+    color: #ffffff;
+    padding: 8px;
+    margin: 10px;
+}
+
+.flatpage-button {
+    font-family: "Beer Serif";
+    font-size: 10px;
+    color: #ffffff;
+    background-color: #f19116;
+    padding: 5px;
+    margin: 6px;
+    height: 30px;
+    width: 80px;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-style: solid;
+    border-width: 0px;
+}
